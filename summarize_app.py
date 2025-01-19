@@ -122,7 +122,7 @@ with st.sidebar:
 col1, col2 = st.columns([6, 1])
 
 with col1:
-    st.header(f"RAG over Excel using Dockling 🐥 &  Llama-3.2")
+    st.header(f"RAG over Excel")
 
 with col2:
     st.button("Clear ↺", on_click=reset_chat)
