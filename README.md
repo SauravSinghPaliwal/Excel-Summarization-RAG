@@ -1,5 +1,5 @@
 # Summarize App
-![alt text](https://github.com/SauravSinghPaliwal/Excel-Summarization-RAG/edit/main/screen.png?raw=true)
+![alt text](https://github.com/SauravSinghPaliwal/Excel-Summarization-RAG/blob/main/screen.png?raw=true)
 
 Welcome to the **Excel-Summarization-RAG** repository! This project is designed to leverages LlamaIndex and IBM's Docling for RAG over excel sheets. You can also use it for ppts and other complex docs,
 
