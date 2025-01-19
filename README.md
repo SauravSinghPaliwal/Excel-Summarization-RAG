@@ -32,8 +32,8 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
+   git clone https://github.com/SauravSinghPaliwal/Excel-Summarization-RAG.git
+   cd Excel-Summarization-RAG
    ```
 
 2. Create a Python virtual environment:
