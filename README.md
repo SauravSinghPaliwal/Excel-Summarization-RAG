@@ -1,1 +1,1 @@
-# Excel_RAG
+# Summarize App
